@@ -1,86 +1,34 @@
-<!DOCTYPE html>
+
 <html>
-<head>
+	<head><title>ArianaCoca</title>
+	<meta name="google-site-verification" content="mVQHS22YOjzVwqgxIV5dEdHy90euQlgNV4oeOz6yD6g" />
+		
+	<link rel="stylesheet" type="text/css" href="style/estilo.css">
+	
+	</head>
+		<body bgcolor="pink">
+			<div id="cuerpo">
+				<center><Font color="red"><h1>MY PROFILE<h1></font></center>
+				<h3>Full name:Ariana Coca Rodriguez<h3>
+		
+	<!-- Inicio del ejemplo 1, más el link al la pagina con el ejemplo -->
+				<p>HOBBIES:Salir con mis amigos y escuchar musica</strong></p>
+	<!-- Inicio del ejemplo 1, más el link al la pagina con el ejemplo -->
+				<p size="20" ><big><strong>Carrera: Ingenieria de sistemas</strong></big></p>
+				<Font color="white"><p>"Brilliant minds are needed for a better future"</p></font>
+						<pre>
 
-     <meta charset="UTF-8">
-  <p> Hola soy Ariana, estudiante de la universidad Usil y en esta página hablaré un poco sobre mí, para que me conozcan mejor</p>
-</head> 
-<body bgcolor="pink">
-		<div id="cuerpo">
-        <title>ARIANA COCA RODRIGUEZ</title>
+<Font color="red"><p size="20" ><big><strong>PRACTICE Program01 Google COLAB</strong></big></p></font>
+<body><a href="https://colab.research.google.com/drive/18A7IiCdCtePJeRvAf8e4LM2ObyqBgVvV?usp=sharing">Click for go to COLAB</a></body>
+<body><a href="https://colab.research.google.com/notebooks/welcome.ipynb?hl=es">Click for install COLAB</a></body>
+<Font color="red"><p size="20" ><big><strong>PRACTICE Program02 Google SITES</strong></big></p></font>
+<body><a href="https://sites.google.com/view/blogdedanielpillpe/con%C3%B3ceme">Click for go to SITES</a></body>
+<Font color="red"><p size="20" ><big><strong>PRACTICE Program03 How to create a website?</strong></big></p></font>
+<body><a href="https://www.youtube.com/watch?v=YWA-xbsJrVg">Click here</a></body>
 
-<h3><h1 style="color:DodgerBlue;">MI PRESENTACION</h1><h3>
-
-<table>
-  <tr>
-    <th>NOMBRE COMPLETO :</th>
-    <td> <a href ="https://www.instagram.com/arianacocarodriguez/">Ariana Coca Rodriguez</a></td>
-    
-  </tr>
-  <tr>
-    <th>EDAD:</th>
-    <td>19 años</td>
-    
-  </tr>
-  <tr>
-    <th>LUGAR DE NACIMIENTO:</th>
-    <td> <a href ="https://es.wikipedia.org/wiki/Lima">Lima Peru</a></td>
-  </tr>
-  
-  <tr>
-    <th>CUMPLEAÑOS:</th>
-    <td>7 de julio</td>
-   </tr>
-   
-  <tr>
-    <th>CARRERA</th>
-    <td> <a href ="https://facultades.usil.edu.pe/ingenieria/carrera/ingenieria-de-sistemas-de-informacion">Sistemas de Informacion</a></td>
-   </tr>
-   
-  <tr>
-    <th>ANIMAL FAVORITO</th>
-    <td>GATOS</td>
-  </tr>
-  
-  <tr>
-    <th>PASATIEMPOS</th>
-    <td>Jugar videojuegos de computadora, valorant, salir con amigos</td>
-   </tr>
-   
-   <tr>
-    <th>DEPORTES QUE ME GUSTAN</th>
-    <td> <a href ="https://es.wikipedia.org/wiki/Baloncesto">Basquet </a> y <a href ="https://es.wikipedia.org/wiki/Nataci%C3%B3n">Natacion</a></td>
-    
-    
-  </tr>
-  <tr>
-      
-</table>
-    <p> Otras páginas de mis compañeros: </p>  
-   
-   <li><a href="https://xleandrox10x.github.io/Leandro-Carrasco-Mallma/">Leandro Carrasco</a></li>
-                    <li><a href="https://gustavofranciaalfaro.netlify.app/">Gustavo Francia</a></li>
-                  <li>  <a href="https://paulogonzalessilva.netlify.app">Paulo Gonzales</a></li>
-                    
-                <li><a href="https://gustavofranciaalfaro.netlify.app/" target="_blank">Gustavo Francia  -</a></li>
-<li><a size="20" href="https://alonsomipaginaweb.netlify.app/   " target="_blank">Alonso Pineda -</a></li>
-              <li><a href="https://mauriciogallegos.netlify.app/" target="_blank">Mauricio Gallego -</a></li>
-              <li><a href="https://xleandrox10x.github.io/Leandro-Carrasco-Mallma/" target="_blank">Leandro Carrasco -</a></li>
-              <li><a href="https://leonelleodolfocampuzanodiestra.000webhostapp.com/" target="_blank">Leonel -</a></li>
-              <li><a href="https://alexander-crisostomo.netlify.app" target="_blank">Alexander Crisóstomo -</a></li>
-              <li><a href="https://systemmanrique97.000webhostapp.com/" target="_blank">Yumar -</a></li>
-              <li><a href="https://christopher-antonio-pillihuaman.netlify.app" target="_blank">Christopher -</a></li>
-              <li><a href="https://enzoluisramosgandarillas.netlify.app/" target="_blank">Enzo Ramos -</a></li>
-              <li><a href="https://nieto21.github.io/MiPerfil/" target="_blank">Mariano Nieto -</a></li>
-              <li><a href="https://henrydanielpillpelagos.netlify.app/" target="_blank">Daniel Pillpe -</a></li>
-              <li><a href="https://alianzasdeljarek.netlify.app/" target="_blank">Jarek -</a></li>
-              <li><a href="https://jorgeebalarezocardenas.000webhostapp.com" target="_blank">Jorge Balarezo -</a></li>
-              <li><a href="https://robertogarfias.netlify.app/" target="_blank">Roberto Garfias -</a></li>
-              <li><a href="https://cris0203nh.wixsite.com/misitio" target="_blank">Josmely Naupay</a></li>
-
-        
 </body>
-  
-
-</html>
-
+					
+<Font color="black"><h2>SOCIAL NETWORKS<h2></font>
+<body><a href="https://www.instagram.com/daniel_pillpe/">INSTAGRAM</a>
+<body><a href="https://www.facebook.com/profile.php?id=100009258349625">FACEBOOK</a>
+<body><a href="https://twitter.com/PillpeDaniel">TWITTER</a>
