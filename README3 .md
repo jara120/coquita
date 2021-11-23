@@ -1,20 +1,19 @@
-
 <html>
-	<head><title>ArianaCoca</title>
+	<head><title>DanielPillpe</title>
 	<meta name="google-site-verification" content="mVQHS22YOjzVwqgxIV5dEdHy90euQlgNV4oeOz6yD6g" />
 		
 	<link rel="stylesheet" type="text/css" href="style/estilo.css">
 	
 	</head>
-		<body bgcolor="pink">
+		<body bgcolor="gray">
 			<div id="cuerpo">
 				<center><Font color="red"><h1>MY PROFILE<h1></font></center>
-				<h3>Full name:Ariana Coca Rodriguez<h3>
+				<h3>Full name:HENRY DANIEL PILLPE LAGOS<h3>
 		
 	<!-- Inicio del ejemplo 1, más el link al la pagina con el ejemplo -->
-				<p>HOBBIES:Salir con mis amigos y escuchar musica</strong></p>
+				<p>HOBBIES:Play music and practice sports</strong></p>
 	<!-- Inicio del ejemplo 1, más el link al la pagina con el ejemplo -->
-				<p size="20" ><big><strong>Carrera: Ingenieria de sistemas</strong></big></p>
+				<p size="20" ><big><strong>College career:Computer Science</strong></big></p>
 				<Font color="white"><p>"Brilliant minds are needed for a better future"</p></font>
 						<pre>
 
@@ -32,3 +31,6 @@
 <body><a href="https://www.instagram.com/daniel_pillpe/">INSTAGRAM</a>
 <body><a href="https://www.facebook.com/profile.php?id=100009258349625">FACEBOOK</a>
 <body><a href="https://twitter.com/PillpeDaniel">TWITTER</a>
+
+
+				
