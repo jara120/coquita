@@ -3,7 +3,7 @@
 <head>
 
     
-  <p> Hola soy Ariana, estudiante de la universidad Usil y en esta página hablaré un poco sobre mí, para que me conozcan mejor</p>
+  <p> Hola soy Ariana, estudiante de la universidad Usil y en esta página hablaré un poco sobre mí, para que me conozcan mejor :D</p>
 </head> 
 <body bgcolor="pink">
 		<div id="cuerpo">
